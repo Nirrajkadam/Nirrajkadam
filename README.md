@@ -4,7 +4,7 @@
 
 ![Developer Badge](https://img.shields.io/badge/Developer-Full%20Stack-00d9ff?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active%20Developer-green?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/957908?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Nirrajkadam?style=for-the-badge)
 
 ### 🚀 Building Tomorrow's Technology Today
 
@@ -63,9 +63,9 @@ I'm a passionate full-stack developer with expertise in:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=957908&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirrajkadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=957908&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirrajkadam&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -74,20 +74,20 @@ I'm a passionate full-stack developer with expertise in:
 ## 🎯 Featured Projects
 
 ### 🤖 Generative AI, GraphRAG & LLM Systems
-- **[FIU Sentinel](https://github.com/957908/FIU-Sentinel-)** - Enterprise financial risk intelligence & anti-money laundering platform powered by GraphRAG, multi-agent orchestration, and interactive vis.js graph visualization.
-- **[Email Tracer](https://github.com/957908/email-tracer)** - GraphRAG forensic audit tool for large-scale email archives to trace communication pathways and sensitive topic bridges.
-- **[Betting Site Data Intelligence Lakehouse](https://github.com/957908/Multi-Agent-AI-Data-Lakehouse-Platform-Betting-Site-Data-Intelligence)** - Multi-Agent Data Lakehouse with Medallion Architecture (Spark/SQLite), Isolation Forest anomaly detection, and FAISS vector RAG querying.
-- **[SentinelX Trust AI](https://github.com/957908/Multi-Agent-AI-Data-Lakehouse-Platform-for-Betting-App-Analysis)** - Enterprise-grade Multi-Agent AI Data Lakehouse Platform for automated payment acquisition, risk profiling, and trust score intelligence.
+- **[FIU Sentinel](https://github.com/Nirrajkadam/FIU-Sentinel-)** - Enterprise financial risk intelligence & anti-money laundering platform powered by GraphRAG, multi-agent orchestration, and interactive vis.js graph visualization.
+- **[Email Tracer](https://github.com/Nirrajkadam/email-tracer)** - GraphRAG forensic audit tool for large-scale email archives to trace communication pathways and sensitive topic bridges.
+- **[Betting Site Data Intelligence Lakehouse](https://github.com/Nirrajkadam/Multi-Agent-AI-Data-Lakehouse-Platform-Betting-Site-Data-Intelligence)** - Multi-Agent Data Lakehouse with Medallion Architecture (Spark/SQLite), Isolation Forest anomaly detection, and FAISS vector RAG querying.
+- **[SentinelX Trust AI](https://github.com/Nirrajkadam/Multi-Agent-AI-Data-Lakehouse-Platform-for-Betting-App-Analysis)** - Enterprise-grade Multi-Agent AI Data Lakehouse Platform for automated payment acquisition, risk profiling, and trust score intelligence.
 
 ### 📱 Full-Stack & Mobile Applications
-- **[Mobile POS & Billing ERP](https://github.com/957908/Mobile_Billing_app)** - Enterprise billing application built with FastAPI, MongoDB, and React Native (Expo) for retail and manufacturing operations.
-- **[3D Developer Portfolio](https://github.com/957908/957908)** - Interactive 3D web experience built with Vite, HTML5, and Three.js.
+- **[Mobile POS & Billing ERP](https://github.com/Nirrajkadam/Mobile_Billing_app)** - Enterprise billing application built with FastAPI, MongoDB, and React Native (Expo) for retail and manufacturing operations.
+- **[3D Developer Portfolio](https://github.com/Nirrajkadam/Nirrajkadam)** - Interactive 3D web experience built with Vite, HTML5, and Three.js.
 
 ### 📚 AI/ML & Engineering Masterclasses
-- **[Generative AI, LLM & RAG Masterclass](https://github.com/957908/Generative-AI-LLM-RAG-AgenticAI-Masterclass)** - Production-ready RAG systems, prompt engineering, and autonomous agent frameworks.
-- **[Practical Deep Learning & MLOps](https://github.com/957908/Practical-Deep-Learning-and-MLOps-Masterclass)** - Production ML pipelines, model tracking, and cloud deployment strategies.
-- **[Practical Machine Learning Masterclass](https://github.com/957908/Practical-Machine-Learning-Masterclass)** - End-to-end ML workflows, feature engineering, and evaluation.
-- **[CDAC Big Data & Cloud Architecture](https://github.com/957908/Cdac-BDA)** - Big Data analytics pipelines, Hadoop/Spark commands, and cloud infrastructure setup.
+- **[Generative AI, LLM & RAG Masterclass](https://github.com/Nirrajkadam/Generative-AI-LLM-RAG-AgenticAI-Masterclass)** - Production-ready RAG systems, prompt engineering, and autonomous agent frameworks.
+- **[Practical Deep Learning & MLOps](https://github.com/Nirrajkadam/Practical-Deep-Learning-and-MLOps-Masterclass)** - Production ML pipelines, model tracking, and cloud deployment strategies.
+- **[Practical Machine Learning Masterclass](https://github.com/Nirrajkadam/Practical-Machine-Learning-Masterclass)** - End-to-end ML workflows, feature engineering, and evaluation.
+- **[CDAC Big Data & Cloud Architecture](https://github.com/Nirrajkadam/Cdac-BDA)** - Big Data analytics pipelines, Hadoop/Spark commands, and cloud infrastructure setup.
 
 ---
 
@@ -140,7 +140,7 @@ Data Engineering           ███████████████░░�
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/957908)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirrajkadam)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
@@ -168,7 +168,7 @@ I believe in:
 
 | Metric | Value |
 |--------|-------|
-| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/957908?style=flat) |
+| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/Nirrajkadam?style=flat) |
 | **Public Repositories** | 15+ |
 | **Total Commits** | 500+ |
 | **Languages** | 6+ |
@@ -217,6 +217,6 @@ Recent Focus:
 
 **Building Tomorrow's Solutions Today** 🚀
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=957908.957908&left_color=00d9ff&right_color=1e90ff)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nirrajkadam.Nirrajkadam&left_color=00d9ff&right_color=1e90ff)
 
 </div>
