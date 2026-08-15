@@ -91,16 +91,20 @@ I'm a passionate full-stack developer with expertise in:
 
 ---
 
-## 📈 Areas of Expertise
+## 📈 Core Engineering Capabilities
 
-```
-AI/ML Development           ████████████████░░  85%
-Cloud Architecture         ███████████████░░░░  75%
-Backend Development        ██████████████████░░ 90%
-Frontend & 3D Graphics     █████████████░░░░░░ 65%
-DevOps & Infrastructure    ██████████████░░░░░ 70%
-Data Engineering           ███████████████░░░░ 75%
-```
+<div align="center">
+
+| Focus Area | Technical Specialization | Core Technologies & Frameworks |
+| :--- | :--- | :--- |
+| **🤖 AI & LLM Engineering** | GraphRAG, Multi-Agent Systems, Fine-Tuning | PyTorch, LangChain, FAISS, Ollama, OpenAI API |
+| **⚡ Backend Systems** | Scalable Microservices, High-Throughput REST APIs | FastAPI, Node.js, Python, C++, MongoDB, PostgreSQL |
+| **☁️ Cloud & DevOps** | Containerization, CI/CD Pipelines, Infrastructure | Docker, Kubernetes, AWS, GCP, GitHub Actions |
+| **📊 Data Engineering** | Medallion Architecture, ETL Pipelines, Analytics | Apache Spark, SQLite, Parquet, Isolation Forest |
+| **🛡️ Cybersecurity & Audit** | Forensic Audit Tools, Risk Intelligence, Network Audit | GraphRAG, vis.js, Security Analysis, DevSecOps |
+| **📱 Mobile & Web Apps** | Cross-Platform Apps, Interactive 3D Interfaces | React Native (Expo), React.js, Three.js, Vite |
+
+</div>
 
 ---
 
