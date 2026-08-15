@@ -73,29 +73,21 @@ I'm a passionate full-stack developer with expertise in:
 
 ## 🎯 Featured Projects
 
-### 🤖 Generative AI & LLM Projects
-- **Multi-Agent AI Data Lakehouse** - Enterprise data intelligence platform with agentic AI
-- **Generative AI LLM RAG Masterclass** - Production-ready RAG systems and fine-tuning
-- **AgenticAI Implementation** - Advanced autonomous agent frameworks
+### 🤖 Generative AI, GraphRAG & LLM Systems
+- **[FIU Sentinel](https://github.com/957908/FIU-Sentinel-)** - Enterprise financial risk intelligence & anti-money laundering platform powered by GraphRAG, multi-agent orchestration, and interactive vis.js graph visualization.
+- **[Email Tracer](https://github.com/957908/email-tracer)** - GraphRAG forensic audit tool for large-scale email archives to trace communication pathways and sensitive topic bridges.
+- **[Betting Site Data Intelligence Lakehouse](https://github.com/957908/Multi-Agent-AI-Data-Lakehouse-Platform-Betting-Site-Data-Intelligence)** - Multi-Agent Data Lakehouse with Medallion Architecture (Spark/SQLite), Isolation Forest anomaly detection, and FAISS vector RAG querying.
+- **[SentinelX Trust AI](https://github.com/957908/Multi-Agent-AI-Data-Lakehouse-Platform-for-Betting-App-Analysis)** - Enterprise-grade Multi-Agent AI Data Lakehouse Platform for automated payment acquisition, risk profiling, and trust score intelligence.
 
-### 📚 Learning & Mastery
-- **Machine Learning Masterclass** - Comprehensive ML fundamentals & advanced techniques
-- **Deep Learning & MLOps** - Production ML pipelines and deployment
-- **Advanced Analytics Using Statistics** - Statistical methods for data-driven decisions
+### 📱 Full-Stack & Mobile Applications
+- **[Mobile POS & Billing ERP](https://github.com/957908/Mobile_Billing_app)** - Enterprise billing application built with FastAPI, MongoDB, and React Native (Expo) for retail and manufacturing operations.
+- **[3D Developer Portfolio](https://github.com/957908/957908)** - Interactive 3D web experience built with Vite, HTML5, and Three.js.
 
-### 🏗 Infrastructure & DevOps
-- **Cloud_CDAC** - Cloud architecture and deployment strategies
-- **Devops-New** - Modern DevOps practices and CI/CD pipelines
-- **BIGDATA-command** - Big data processing and distributed systems
-
-### 🌐 Web & Applications
-- **NeuroMed Vision** - Healthcare AI vision application
-- **3D Developer Avatar Portfolio** - Interactive 3D web experience with Three.js
-- **Student Job Tracker** - Career development tracking tool
-
-### 🛡 Security & Tools
-- **CyberSquad-X** - Cybersecurity tools and resources
-- **Number Guessing Game** - C++ programming fundamentals
+### 📚 AI/ML & Engineering Masterclasses
+- **[Generative AI, LLM & RAG Masterclass](https://github.com/957908/Generative-AI-LLM-RAG-AgenticAI-Masterclass)** - Production-ready RAG systems, prompt engineering, and autonomous agent frameworks.
+- **[Practical Deep Learning & MLOps](https://github.com/957908/Practical-Deep-Learning-and-MLOps-Masterclass)** - Production ML pipelines, model tracking, and cloud deployment strategies.
+- **[Practical Machine Learning Masterclass](https://github.com/957908/Practical-Machine-Learning-Masterclass)** - End-to-end ML workflows, feature engineering, and evaluation.
+- **[CDAC Big Data & Cloud Architecture](https://github.com/957908/Cdac-BDA)** - Big Data analytics pipelines, Hadoop/Spark commands, and cloud infrastructure setup.
 
 ---
 
