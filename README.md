@@ -117,17 +117,19 @@ I'm a passionate full-stack developer with expertise in:
 
 ---
 
-## 🌟 Current Focus
+## 🌟 Current Focus & Engineering Roadmap
 
-```
-┌────────────────────────────────────────────────┐
-│  🚀 Building Advanced AI Systems                │
-│  ☁️  Cloud-Native Architecture Design           │
-│  📊 Real-time Data Processing Pipelines         │
-│  🎨 Interactive Web Experiences with 3D         │
-│  🔐 Enterprise-Grade Security Solutions         │
-└─────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Strategic Focus | Engineering Scope | Status |
+| :--- | :--- | :---: |
+| 🚀 **Autonomous AI Agents** | Multi-Agent Orchestration & GraphRAG Frameworks | `🟢 Active R&D` |
+| ☁️ **Cloud-Native Systems** | Distributed Microservices & Event-Driven Architecture | `🚀 Production` |
+| 📊 **Real-Time Data Pipelines** | Spark Medallion Architecture & Stream Processing | `🚀 Production` |
+| 🔐 **CyberSec & Forensics** | Automated Threat Detection & Communication Auditing | `🟢 Active R&D` |
+| 📱 **Cross-Platform Mobile** | Enterprise POS & ERP Systems with FastAPI & React Native | `🚀 Production` |
+
+</div>
 
 ---
 
@@ -202,16 +204,16 @@ If you find my projects helpful:
 
 ---
 
-## 📝 Latest Activity
+## 📝 Engineering Focus Areas
 
-```
-Recent Focus:
-├── 🚀 Generative AI & LLM Development
-├── ☁️  Cloud Architecture Design
-├── 📊 Data Engineering Solutions
-├── 🎨 Web3D Development
-└── 🔐 Security & DevOps
-```
+<div align="center">
+
+![AI & LLM](https://img.shields.io/badge/Generative_AI_%26_LLM-Active-00d9ff?style=for-the-badge&logo=openai&logoColor=white)
+![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-Design-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-Solutions-336791?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Security_%26_DevOps-Enterprise-red?style=for-the-badge&logo=shield&logoColor=white)
+
+</div>
 
 ---
 
